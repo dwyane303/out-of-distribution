@@ -35,3 +35,4 @@ Enhancing The Reliability of Out-of-distribution Image Detection in Neural Netwo
 [ood-benchmarks](https://github.com/eminorhan/ood-benchmarks)
 [OODGen](https://github.com/sverneka/OODGen)
 [Out of Distribution Sample Detection](https://github.com/ashafaei/out-of-distribution-detection)
+[Awesome Open Set Recognition list](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
