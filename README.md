@@ -20,7 +20,7 @@ Analysis of Confident-Classifiers for Out-of-distribution Detection [[article]](
 A Benchmark for Anomaly Segmentation [[article]](https://arxiv.org/abs/1911.11132) [[code]](https://github.com/xksteven/multilabel-ood)
 Deep Residual Flow for Out of Distribution Detection [[article]](https://arxiv.org/abs/2001.05419) [[code]](https://github.com/EvZissel/Residual-Flow)
 Real-time Out-of-distribution Detection in Learning-Enabled Cyber-Physical Systems [[article]](https://arxiv.org/pdf/2001.10494.pdf) [[code]](https://github.com/feiyangsb/out_of_distribution_detector_aebs)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
+Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles [[article]](https://arxiv.org/abs/1612.01474) [[code]](https://github.com/liyin2015/ensemble_classification_model)
 Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
 Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
 Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
