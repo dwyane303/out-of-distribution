@@ -11,7 +11,10 @@ Hyperparameter-Free Out-of-Distribution Detection Using Softmax of Scaled Cosine
 Learning with Out-of-Distribution Data for Audio Classification [[article]](https://arxiv.org/abs/2002.04683) [[code]](https://github.com/tqbl/ood_audio) 
 Robust Out-of-distribution Detection for Neural Networks [[article]](https://arxiv.org/abs/2003.09711) [[code]](https://github.com/jfc43/robust-ood-detection) 
 LEARNING TO BALANCE: BAYESIAN META-LEARNING FOR IMBALANCED AND OUT-OF-DISTRIBUTION TASKS [[article-ICLR-2020-oral]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b) 
+Learning Confidence for Out-of-Distribution Detection in Neural Networks [[article-ICLR-2020-oral]](https://arxiv.org/abs/1802.04865) [[code]](https://github.com/uoguelph-mlrg/confidence_estimation)
+Learning Confidence for Out-of-Distribution Detection in Neural Networks [[article-ICLR-2020-oral]](https://arxiv.org/abs/1802.04865) [[code]](https://github.com/uoguelph-mlrg/confidence_estimation)
 
 # github
 [ood-benchmarks](https://github.com/eminorhan/ood-benchmarks)
 [OODGen](https://github.com/sverneka/OODGen)
+[Out of Distribution Sample Detection](https://github.com/ashafaei/out-of-distribution-detection)
