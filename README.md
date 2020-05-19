@@ -12,8 +12,8 @@ Learning with Out-of-Distribution Data for Audio Classification [[article]](http
 Robust Out-of-distribution Detection for Neural Networks [[article]](https://arxiv.org/abs/2003.09711) [[code]](https://github.com/jfc43/robust-ood-detection)  
 LEARNING TO BALANCE: BAYESIAN META-LEARNING FOR IMBALANCED AND OUT-OF-DISTRIBUTION TASKS [[article-ICLR-2020-oral]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b)  
 Learning Confidence for Out-of-Distribution Detection in Neural Networks [[article-ICLR-2020-oral]](https://arxiv.org/abs/1802.04865) [[code]](https://github.com/uoguelph-mlrg/confidence_estimation)  
-Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples[[article]][[https://arxiv.org/abs/1711.09325]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)  
-A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks[[article]] [[https://arxiv.org/abs/1711.09325]](https://arxiv.org/abs/1807.03888) [[code]](https://github.com/pokaxpoka/deep_Mahalanobis_detector)  
+Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples[[article]](https://arxiv.org/abs/1711.09325)(https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)  
+A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks[[article]] (https://arxiv.org/abs/1711.09325]](https://arxiv.org/abs/1807.03888) [[code]](https://github.com/pokaxpoka/deep_Mahalanobis_detector)  
 A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks [[article]](https://arxiv.org/abs/1610.02136) [[code]](https://github.com/hendrycks/error-detection)  
 Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition [[article]](https://arxiv.org/abs/1904.08703) [[code]](https://github.com/naraysa/gzsl-od)  
 Analysis of Confident-Classifiers for Out-of-distribution Detection [[article]](https://arxiv.org/abs/1904.12220) [[code]](https://github.com/sverneka/ConfidentClassifierICLR19)  
@@ -29,7 +29,7 @@ LikelihoodRatiosforOut-of-DistributionDetection [[article]](http://papers.nips.c
 Which MOoD Methods work? A Benchmark of Medical Out of Distribution Detectio [[article]](https://openreview.net/pdf?id=1ABDN92t49)   
 DetectingOut-of-DistributionExampleswith In-distributionExamplesandGramMatrices [[article]](ttps://arxiv.org/pdf/1912.12510.pdf)  
 Out-of-DistributionGeneralizationviaRiskExtrapolation [[article]](https://arxiv.org/pdf/2003.00688.pdf)  
-Methods for Detection and Recovery of Out-of-Distribution Examples [[article]] (https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/mw22vb88d)  
+Methods for Detection and Recovery of Out-of-Distribution Examples [[article]](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/mw22vb88d)  
 
 # github
 [ood-benchmarks](https://github.com/eminorhan/ood-benchmarks)  
