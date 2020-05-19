@@ -25,11 +25,11 @@ DetectingOut-of-DistributionInputsinDeepNeuralNetworks UsinganEarly-LayerOutput 
 Self-Attentionbasedmodelforde-novoantibiotic resistantgeneclassiﬁcationwithenhancedreliability forOutofDistributiondatadetection [[article]](https://www.biorxiv.org/content/10.1101/543272v1.full.pdf) 
 Pretrained Transformers Improve Out-of-Distribution Robustness [[article]](https://arxiv.org/abs/2004.06100) [[code]](https://github.com/camelop/NLP-Robustness)
 Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples [[article]](https://arxiv.org/abs/1711.09325) [[code]](https://github.com/OpenXAIProject/Confident_classifier)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]]https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
+LikelihoodRatiosforOut-of-DistributionDetection [[article]](http://papers.nips.cc/paper/9611-likelihood-ratios-for-out-of-distribution-detection.pdf) 
+Which MOoD Methods work? A Benchmark of Medical Out of Distribution Detectio [[article]](https://openreview.net/pdf?id=1ABDN92t49) 
+DetectingOut-of-DistributionExampleswith In-distributionExamplesandGramMatrices [[article]](ttps://arxiv.org/pdf/1912.12510.pdf) 
+Out-of-DistributionGeneralizationviaRiskExtrapolation [[article]](https://arxiv.org/pdf/2003.00688.pdf) 
+Methods for Detection and Recovery of Out-of-Distribution Examples [[article]](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/mw22vb88d) 
 
 # github
 [ood-benchmarks](https://github.com/eminorhan/ood-benchmarks)
