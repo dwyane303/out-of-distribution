@@ -6,3 +6,7 @@ Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Cla
 A Less Biased Evaluation of Out-of-distribution Sample Detectors [[article]](https://arxiv.org/abs/1809.04729) [[code]](https://github.com/ashafaei/OD-test)  
 Outlier Exposure with Confidence Control for Out-of-Distribution Detection [[article]](https://arxiv.org/abs/1906.03509) [[code]](https://github.com/nazim1021/OOD-detection-using-OECC) 
 Test-Time Training for Out-of-Distribution Generalization [[article]](https://arxiv.org/abs/1909.13231) [[code]](https://github.com/yueatsprograms/ttt_imagenet_release) 
+Hyperparameter-Free Out-of-Distribution Detection Using Softmax of Scaled Cosine Similarity [[article]](https://arxiv.org/abs/1905.10628) [[code]](https://github.com/engkarat/cosine-ood-detector) 
+# github
+[ood-benchmarks](https://github.com/eminorhan/ood-benchmarks)
+[OODGen](https://github.com/sverneka/OODGen)
