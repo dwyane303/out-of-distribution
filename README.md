@@ -1,3 +1,4 @@
+
 # out-of-distribution
 A curated list of resources for Learning with out of distributions detection
 # papers
@@ -7,6 +8,8 @@ A Less Biased Evaluation of Out-of-distribution Sample Detectors [[article]](htt
 Outlier Exposure with Confidence Control for Out-of-Distribution Detection [[article]](https://arxiv.org/abs/1906.03509) [[code]](https://github.com/nazim1021/OOD-detection-using-OECC) 
 Test-Time Training for Out-of-Distribution Generalization [[article]](https://arxiv.org/abs/1909.13231) [[code]](https://github.com/yueatsprograms/ttt_imagenet_release) 
 Hyperparameter-Free Out-of-Distribution Detection Using Softmax of Scaled Cosine Similarity [[article]](https://arxiv.org/abs/1905.10628) [[code]](https://github.com/engkarat/cosine-ood-detector) 
+Learning with Out-of-Distribution Data for Audio Classification [[article]](https://arxiv.org/abs/2002.04683) [[code]](https://github.com/tqbl/ood_audio) 
+Robust Out-of-distribution Detection for Neural Networks [[article]](https://arxiv.org/abs/2003.09711) [[code]](https://github.com/jfc43/robust-ood-detection) 
 # github
 [ood-benchmarks](https://github.com/eminorhan/ood-benchmarks)
 [OODGen](https://github.com/sverneka/OODGen)
