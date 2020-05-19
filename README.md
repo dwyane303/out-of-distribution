@@ -24,7 +24,7 @@ Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles [[art
 DetectingOut-of-DistributionInputsinDeepNeuralNetworks UsinganEarly-LayerOutput [[article]](https://arxiv.org/pdf/1910.10307.pdf) [[code]](https://github.com/gietema/ood-early-layer-detection)
 Self-Attentionbasedmodelforde-novoantibiotic resistantgeneclassiﬁcationwithenhancedreliability forOutofDistributiondatadetection [[article]](https://www.biorxiv.org/content/10.1101/543272v1.full.pdf) 
 Pretrained Transformers Improve Out-of-Distribution Robustness [[article]](https://arxiv.org/abs/2004.06100) [[code]](https://github.com/camelop/NLP-Robustness)
-Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
+Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples [[article]](https://arxiv.org/abs/1711.09325) [[code]](https://github.com/OpenXAIProject/Confident_classifier)
 Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
 Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]](https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
 Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[article]]https://arxiv.org/abs/1706.02690) [[code]](https://github.com/facebookresearch/odin)
