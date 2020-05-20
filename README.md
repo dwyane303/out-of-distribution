@@ -45,8 +45,6 @@ Self-Attentionbasedmodelforde-novoantibiotic resistantgeneclassiﬁcationwithenh
 
 Pretrained Transformers Improve Out-of-Distribution Robustness [[article]](https://arxiv.org/abs/2004.06100) [[code]](https://github.com/camelop/NLP-Robustness)  
 
-Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples [[article]](https://arxiv.org/abs/1711.09325) [[code]](https://github.com/OpenXAIProject/Confident_classifier)  
-
 LikelihoodRatiosforOut-of-DistributionDetection [[article]](http://papers.nips.cc/paper/9611-likelihood-ratios-for-out-of-distribution-detection.pdf)  
 
 Which MOoD Methods work? A Benchmark of Medical Out of Distribution Detection[[article]](https://openreview.net/pdf?id=1ABDN92t49)  
